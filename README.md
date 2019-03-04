@@ -4,6 +4,12 @@ Intro to Neurotech: [2018-2019](https://github.com/neurotechuoft/Workshops)
 
 ---
 
+To-Do:
+-[ ]  [Wk2 - Signal Processing Exercises](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
+-[ ] Read about [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
+
+---
+
 [General Outline](https://www.facebook.com/events/580805392331663)
 
 Week 1, 21/1/19: 
@@ -28,7 +34,7 @@ Reading Week — No workshop
 
 Week 5, 25/2/19: 
 Digital Signal Processing
-Convolution, impulse responses, signal types, continuous vs discrete, aliasing, Nyquist's Theorem, FIR vs IIR, different types of filters, filter order
+Convolution, impulse responses, signal types, continuous vs discrete, aliasing, Nyquist's Theorem, [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959), different types of filters, filter order
 
 Week 6, 04/3/19: 
 Uncovering Oscillatory Processes in EEG
