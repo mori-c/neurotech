@@ -1,1 +1,31 @@
 /* You can add global styles to this file, and also import other style files */
+
+h1 {
+    color: #369;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 250%;
+}
+
+h2,
+h3 {
+    color: #444;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: lighter;
+}
+
+body {
+    margin: 2em;
+}
+
+body,
+input[type="text"],
+button {
+    color: #888;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+/* everywhere else */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
