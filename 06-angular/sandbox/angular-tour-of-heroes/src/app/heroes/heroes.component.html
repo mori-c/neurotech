@@ -1,3 +1,16 @@
-<p>
-  heroes works!
-</p>
+<!-- <p>
+  {{hero}}
+</p> -->
+
+<h2>{{hero.name | uppercase}} Details</h2>
+
+<div>
+  <span>id: </span>{{hero.id}}
+</div>
+
+<!-- [(ngModel)] = two-way data binding syntax -->
+<div>
+  <label>name:
+    <input [(ngModel)]="hero.name" placeholder="name" />
+  </label>
+</div>
