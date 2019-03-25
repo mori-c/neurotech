@@ -85,7 +85,6 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 # Core Concepts
 
----
 
 ### 02 ⋯ Graphing Data
 
@@ -111,7 +110,6 @@ Bayes Net Graphical Models
 
 [Models](https://en.wikipedia.org/wiki/Time_series#Models)
 
----
 
 - Fast Fourier Transform ⋯ [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
 
@@ -157,11 +155,11 @@ Bayes Net Graphical Models
 
     [Signal Estimation](https://en.wikipedia.org/wiki/Estimation_theory)
 
----
 
 Frequency Analysis
 
 [Multidimensional transform](https://en.wikipedia.org/wiki/Multidimensional_transform)
+
 
 ---
 
@@ -180,6 +178,7 @@ Rall’s Cable Theory
 
 Hodgkin-Huxley ⋯ HH
 
+
 ---
 
 ### 05 ⋯ Digital Signal Processing
@@ -196,19 +195,17 @@ Impulse Responses
 
     Discrete Processing
 
----
-
 Nyquist's Theorem
 
 Aliasing
 
----
 
 Filter Order
 
 FIR v IIR
 
 Filter Types
+
 
 ---
 
@@ -228,7 +225,7 @@ Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalog
 
     ANN methods
 
----
+
 
 [Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
 
@@ -236,7 +233,7 @@ Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalog
 
 [spike and wave Pathology](https://en.wikipedia.org/wiki/Spike_and_wave)
 
----
+
 
 - GABA Brainwave Channels
 
@@ -258,13 +255,14 @@ Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalog
 
 [http://www.fields.utoronto.ca/video-archive/static/2019/01/2757-19929/mergedvideo.ogv](http://www.fields.utoronto.ca/video-archive/static/2019/01/2757-19929/mergedvideo.ogv)
 
+
 ---
 
 ### 07 ⋯ AngularJS
 
 MVC : MVVM
 
----
+
 
 - MEAN Stack
     MongoDB
@@ -327,7 +325,8 @@ MVC : MVVM
             	}
             });
 ```
----
+
+
 
 - Angularity Unique
 
@@ -339,14 +338,17 @@ MVC : MVVM
 
     inject test in main() 
 
+
 ---
 
 ### 08 ⋯ Generative Signal Processing Art
+
 
 ---
 
 ### 09 ⋯ [Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
 Gamma-aminobutyric acid ⋯ [GABA](https://en.wikipedia.org/wiki/Gamma-aminobutyric_acid)
+
 
 ---
 
