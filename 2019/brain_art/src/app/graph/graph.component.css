@@ -1,0 +1,45 @@
+/*.d3-chart {*/
+  /*width: 100%;*/
+  /*height: 400px;*/
+/*}*/
+
+/*.d3-chart .axis path,*/
+/*.d3-chart .axis line {*/
+  /*stroke: #999;*/
+/*}*/
+
+/*.d3-chart .axis text {*/
+  /*fill: #999;*/
+/*}*/
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.cursor {
+  fill: green;
+  stroke: green;
+  pointer-events: none;
+}
+
+.btn-grad {
+  background-image: linear-gradient(to right, #ED4264 0%, #FFEDBC 100%, #ED4264 100%);
+  height: 50px;
+  width: 20%;
+  border-radius: 5px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  border: none;
+  margin: 20px;
+}
+
+.btn-grad:hover {
+  background-position: right center;
+}
