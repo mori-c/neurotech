@@ -1,11 +1,14 @@
 # Workflow
 
-```mermaid
+```mermaid 
+
 graph TD;
+
     Keras-->TensorFlow;
     Keras-->X;
     TensorFlow-->Angular;
     X-->Angular;
+
 ``` 
 
 <br>
@@ -25,11 +28,10 @@ graph TD;
 <br>
 <br>
 
----
 
 ### Tensorflow in AngularJS <sup>᠄ [01](#r01)</sup>
 
-<br>
+
 
 Generate Angular App
 ```
@@ -42,9 +44,9 @@ Install TensorFlowJS
 $ cd TFApp
 $ npm install @tensorflow/tfjs --save
 ```
-- update dependencies if needed
+<!-- - update dependencies if needed -->
 
-<br><br>
+<br>
 
 ---
 
@@ -55,14 +57,14 @@ $ npm install @tensorflow/tfjs --save
 $ pip install tensorflowjs
  ```
 
-﹊﹊﹊
+﹊﹊
 
 If ` pip install tensorflowjs ` returns  `tf-nightly` error
 
 ```
 $ pip install tf-nightly-2.0-preview
 ```
-﹊﹊﹊
+﹊
 
 If `tf-nightly-2.0-preview failed to install`
 Download compatible `.whl` file at [https://pypi.org/project/tf-nightly/#files](https://pypi.org/project/tf-nightly/#files)
@@ -75,7 +77,7 @@ Example
 $ pip install /Users/user/whl/tf_nightly_2.0_preview-2.0.0.dev20190327-cp36-cp36m-macosx_10_9_x86_64.whl
 ```
 
-<br><br>
+<br>
 
 ---
 
@@ -89,16 +91,14 @@ $ conda activate my_environment_name
 $ conda deactivate
 ```
 
-<br><br>
+<br>
 
 ---
 
 #### Resources
 
-﹊
-
-<a name="r01">01</a> ⋯ [Can't load @tensorflow/tfjs in angularjs app](https://stackoverflow.com/questions/50026629/cant-load-tensorflow-tfjs-in-angularjs-app)
-<a name="r02">02</a> ⋯ [Pip is not installing TensorFlow Nightly Mac](https://stackoverflow.com/questions/53926348/pip-is-not-installing-tensorflow-nightly-mac)
+* <a name="r01">01</a> ⋯ [Can't load @tensorflow/tfjs in angularjs app](https://stackoverflow.com/questions/50026629/cant-load-tensorflow-tfjs-in-angularjs-app)
+* <a name="r02">02</a> ⋯ [Pip is not installing TensorFlow Nightly Mac](https://stackoverflow.com/questions/53926348/pip-is-not-installing-tensorflow-nightly-mac)
 
 
 <!-- <a name=""></a> ⋯ []()
