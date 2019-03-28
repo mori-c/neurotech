@@ -47,11 +47,12 @@ $ npm install @tensorflow/tfjs --save
 <!-- - update dependencies if needed -->
 
 <br>
+<br>
+
+### Create Keras Model in TensorFlow.js
 
 ---
 
-### Create Keras Model in TensorFlow.js
-<br>
 
  ```
 $ pip install tensorflowjs
