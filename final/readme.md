@@ -1,5 +1,5 @@
 # Final Project
-
+Project Kanban: [https://github.com/mori-c/uoft-neurotech/projects/1](https://github.com/mori-c/uoft-neurotech/projects/1)
 <br>
 
 ### Tech Stack
