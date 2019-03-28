@@ -31,6 +31,18 @@ Project Kanban: [https://github.com/mori-c/uoft-neurotech/projects/1](https://gi
 * <a name="testing-karma">[Karma](https://karma-runner.github.io/)</a>: unit
 * <a name="testing-pro">[Protractor](http://www.protractortest.org/)</a>: end-to-end
 
+<br>
+
+Mermaid Diagram Placeholder
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+``` 
+
 
 <!-- <a name=""></a>: Footnote content goes here -->
 
