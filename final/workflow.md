@@ -31,7 +31,7 @@ graph TD;
 
 ### Tensorflow in AngularJS <sup>᠄ [01](#r01)</sup>
 
-
+---
 
 Generate Angular App
 ```
@@ -58,7 +58,7 @@ $ npm install @tensorflow/tfjs --save
 $ pip install tensorflowjs
  ```
 
-﹊﹊
+﹊
 
 If ` pip install tensorflowjs ` returns  `tf-nightly` error
 
@@ -79,10 +79,11 @@ $ pip install /Users/user/whl/tf_nightly_2.0_preview-2.0.0.dev20190327-cp36-cp36
 ```
 
 <br>
-
----
+<br>
 
 ### Anaconda <sup>᠄ [02](#r02)</sup>
+
+---
 
 ```
 $ conda create -n my_environment_name python=3.6 
@@ -93,10 +94,11 @@ $ conda deactivate
 ```
 
 <br>
+<br>
+
+### Resources
 
 ---
-
-#### Resources
 
 * <a name="r01">01</a> ⋯ [Can't load @tensorflow/tfjs in angularjs app](https://stackoverflow.com/questions/50026629/cant-load-tensorflow-tfjs-in-angularjs-app)
 * <a name="r02">02</a> ⋯ [Pip is not installing TensorFlow Nightly Mac](https://stackoverflow.com/questions/53926348/pip-is-not-installing-tensorflow-nightly-mac)
@@ -105,10 +107,12 @@ $ conda deactivate
 <!-- <a name=""></a> ⋯ []()
 <a name=""></a> ⋯ []() -->
 
+<br>
+<br>
+
+### Keywords
+
 ---
-
-#### Keywords
-
 
 - [ ] ecg data
 - [ ] heart contraction
