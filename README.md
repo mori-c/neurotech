@@ -1,6 +1,6 @@
-# Introduction to Neurotechnology ⋯ [2019](https://github.com/neurotechuoft/Workshops)
+# Introduction to Neurotechnology
 
-University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663)
+University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663) ⋯ [2019](https://github.com/neurotechuoft/Workshops)
 
 <br>
 
@@ -34,7 +34,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 1.  **Introduction to Python** ⃗ <sup>21/1/19</sup>
 
 
-2.  **Git & Data** ⃗ 28/1/19
+2.  **Git & Data** ⃗ <sup>28/1/19</sup>
   * Introduction to Git
     * Git + GitHub
 
@@ -44,7 +44,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
     * [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks)
 
 
-3.  **Introduction to Neuroscience**  ⋯  04/2/19
+3.  **Introduction to Neuroscience**  ⋯  <sup>04/2/19</sup>
 * Brief history on neuroscience
    * How Neurons & Axons Work: Brief Intro
 * Neuroanatomy & [Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
@@ -55,15 +55,15 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
     * HH ⋯ Hodgkin-Huxley Equations
 
 
-4.  **Noise Filtering** ⃗ 11/2/19
+4.  **Noise Filtering** ⃗ <sup>11/2/19</sup>
 * [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
 * FFT ⋯ Fast Fourier Transform Introduction
 
 
-5.  **Reading Week** ⃗ 18/2/19
+5.  **Reading Week** ⃗ <sup>18/2/19</sup>
 
 
-6.  **Digital Signal Processing**  ⃗  <sup>4/3/19</sup> ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)
+6.  **Digital Signal Processing**  ⃗  [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf) ⋯ <sup>4/3/19</sup>
 * Signals 
    * Sampling Audio, Biological, Images, and Video Signals
    * Fourier Analysis: Frequency Domain
@@ -95,7 +95,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
       * Convolution
 
 
-7. **EEG Oscillatory Processes**  ⃗  <sup>11/3/19</sup> ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf)
+7. **EEG Oscillatory Processes** ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf)  ⃗  <sup>11/3/19</sup> 
 * What exactly is EEG
    * [EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
    * GABA Brainwave Channels
@@ -104,45 +104,21 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 * Oscillatory processes vs ERPs
 * Power spectral analysis for EEG power bands
    * [Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
-   
-   Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalography)
-
-- [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
-
-    Frequency domain methods
-
-    Time domain methods
-
-    Time-frequency domain methods
-
-    Nonlinear methods
-
-    ANN methods
-
-
-
-[Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
-
-[Computational Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation#Mathematical_description)
-
-[spike and wave Pathology](https://en.wikipedia.org/wiki/Spike_and_wave)
-
-
-
-8.  **AngularJS, Offline Data & Git**  ⃗  18/3/19 
+  
+8.  **AngularJS, Offline Data & Git**  ⃗  <sup>18/3/19</sup>
 * AngularJS Tutorial
 * Advanced Git
 * Offline (dataset) 
 * Work session
 
-9.  **MuseJs, Brain Art Architecture**  ⃗  25/3/19 
+9.  **MuseJs, Brain Art Architecture**  ⃗  <sup>25/3/19</sup> 
 * Intro starter to Brain Art Project
 * MuseJs Introduction 
 * Brain Art architecture
 * Brain artwork session (online)
 * Work session
 
-10.  **EEG Generative Art Project Presentation**  ⃗  01/4/19
+10.  **EEG Generative Art Project Presentation** ﹊ <sup>01/4/19</sup>
 
 <br>
 
