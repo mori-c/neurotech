@@ -31,21 +31,22 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 ## General Outline
 
 
-1. 21/1/19: **Introduction to Python**
+1.  **Introduction to Python** ⃗ 21/1/19
 
-2. 28/1/19: **Git & Data**
 
-A. Introduction to Git
+2.  **Git & Data** ✗ 28/1/19
+
+  A. Introduction to Git
 * Git + GitHub
 
-B. Signal Processing & Graphing Data
+  B. Signal Processing & Graphing Data
 * How to load data from CSVs or FIFs
 * Graphing data with Matplotlib
 * [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
 
 
-
-3. 04/2/19: **Introduction to Neuroscience**
+3.  **Introduction to Neuroscience** ⋯ 04/2/19
+⋯
 * Brief history on neuroscience
    * How Neurons & Axons Work: Brief Intro
 * Neuroanatomy & [Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
@@ -55,18 +56,23 @@ B. Signal Processing & Graphing Data
     * GHK
     * Hodgkin-Huxley (HH) equations
 
-4. 11/2/19: **Noise Filtering**
+
+4.  **Noise Filtering** . 11/2/19
+⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
 * [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
 * Introduction to the Fast Fourier Transform
 
-5.18/2/19: **Reading Week**
 
-6. 4/3/19: **Digital Signal Processing**<sup>[⎚](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)</sup>
+5.  **Reading Week** 18/2/19
+
+
+6.  **Digital Signal Processing**<sup>[⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)</sup>  4/3/19
+⋯
 * Signals 
-   * Audio, Biological, Images, and Video Sampling
+   * Sampling Audio, Biological, Images, and Video Signals
    * Fourier Analysis: Frequency Domain
    * DTFT: Discrete Time Fourier Transform & Properties
-   * Aliasing Time & Frequency
+   * Aliasing: Overlapped Time & Frequency Signals Reconstructed
    * Nyquist's Theorem
    * Filter Designs
       * Filter Types
@@ -80,15 +86,20 @@ B. Signal Processing & Graphing Data
 * Signal Classifications Types
    * $$x(t)$$ Continuous vs $$x[n]$$ Discrete
    * Digital vs Analog
+   * 1D: x(t), v[n]
+   * 2D: f(x, t), images
+   * Unit Impluse (Delta) Function
+   * Periodic Signals
+   * Frequency
+   * Signal Manipulation
 * Systems
    * Impulse responses
    * System Properties
    * LTI: Linear Time Invariant
-* Convolution
+      * Convolution
 
-   
 
-7. 11/3/19: **EEG Oscillatory Processes**
+7. **EEG Oscillatory Processes** ﹊ 11/3/19
 * What exactly is EEG
    * Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalography)
    * GABA Brainwave Channels
@@ -122,34 +133,22 @@ B. Signal Processing & Graphing Data
 
 
 
-- GABA Brainwave Channels
-
-    [Delta](https://en.wikipedia.org/wiki/Delta_wave) ⋯  0.1 - 3 Hz
-
-    [Theta](https://en.wikipedia.org/wiki/Theta_wave) ⋯  4 – 7 Hz
-
-    [Alpha](https://en.wikipedia.org/wiki/Alpha_wave) ⋯  8 – 12.5 Hz
-
-    [Mu](https://en.wikipedia.org/wiki/Mu_wave) ⋯  7.5 – 12.5 Hz
-
-    [Beta](https://en.wikipedia.org/wiki/Beta_wave) ⋯  12.5 – 30 Hz
-
-    [Gamma](https://en.wikipedia.org/wiki/Gamma_wave) ⋯  32 – 100 Hz
-
-8. 18/3/19: **AngularJS, Offline Data & Git**
+8.  **AngularJS, Offline Data & Git** 
+18/3/19: 
 * AngularJS Tutorial
 * Advanced Git
 * Offline (dataset) 
 * Work session
 
-9. 25/3/19: **MuseJs, Brain Art Architecture**
+9.  **MuseJs, Brain Art Architecture**
+﹊ 25/3/19: 
 * Intro starter to Brain Art Project
 * MuseJs Introduction 
 * Brain Art architecture
 * Brain artwork session (online)
 * Work session
 
-10. 01/4/19: **EEG Generative Art Project Presentation**
+10.  **EEG Generative Art Project Presentation**  01/4/19
 
 <br>
 
