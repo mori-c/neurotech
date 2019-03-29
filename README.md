@@ -14,7 +14,6 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 ## Topics & Scope
 
-
 1. Python
 2. Graphing Data
 3. Fast Fourier Transform ⋯ FFT 
@@ -31,64 +30,126 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 ## General Outline
 
-#### Week 1, 21/1/19: Introduction to Python
-* Python basics of programming
 
-#### Week 2, 28/1/19: Git & Data
+1. 21/1/19: **Introduction to Python**
+
+2. 28/1/19: **Git & Data**
+
 A. Introduction to Git
 * Git + GitHub
-B. Loading and graphing data
+
+B. Signal Processing & Graphing Data
 * How to load data from CSVs or FIFs
 * Graphing data with Matplotlib
+* [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
 
-#### Week 3, 04/2/19: Introduction to Neuroscience
+
+
+3. 04/2/19: **Introduction to Neuroscience**
 * Brief history on neuroscience
-* How neurons work: brief intro
-* Neuroanatomy review
+   * How Neurons & Axons Work: Brief Intro
+* Neuroanatomy & [Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
 * Rall's Cable Theory
 * Membrane potential
     * Nernst
     * GHK
-    * HH equations
+    * Hodgkin-Huxley (HH) equations
 
-#### Week 4, 11/2/19: [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
-* Noise filtering
+4. 11/2/19: **Noise Filtering**
+* [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
 * Introduction to the Fast Fourier Transform
 
-#### Week X, 18/2/19: Reading Week
-No workshop
+5.18/2/19: **Reading Week**
 
-#### Week 5, 4/3/19: Digital Signal Processing
+6. 4/3/19: **Digital Signal Processing**<sup>[⎚](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)</sup>
+* Signals 
+   * Audio, Biological, Images, and Video Sampling
+   * Fourier Analysis: Frequency Domain
+   * DTFT: Discrete Time Fourier Transform & Properties
+   * Aliasing Time & Frequency
+   * Nyquist's Theorem
+   * Filter Designs
+      * Filter Types
+      * [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
+      * Filter Order
+      * Filter Characteristics
+* Signal Processing
+   * Analyzing & Modifying Signals
+   * Audio, Speech, Video, Image, Biological, Biomedical Imaging Application Variants
+   * Brain-Computer Interfaces
+* Signal Classifications Types
+   * $$x(t)$$ Continuous vs $$x[n]$$ Discrete
+   * Digital vs Analog
+* Systems
+   * Impulse responses
+   * System Properties
+   * LTI: Linear Time Invariant
 * Convolution
-* Impulse responses
-* Signal types
-* Continuous vs discrete
-* Aliasing
-* Nyquist's Theorem
-* [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
-* Different types of filters
-* Filter order
 
-#### Week 6, 11/3/19: Uncovering Oscillatory Processes in EEG
+   
+
+7. 11/3/19: **EEG Oscillatory Processes**
 * What exactly is EEG
+   * Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalography)
+   * GABA Brainwave Channels
 * Physics of EEG
+   * [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
 * Oscillatory processes vs ERPs
 * Power spectral analysis for EEG power bands
+   * [Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
+   
+   Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalography)
 
-#### Week 7, 18/3/19: AngularJS, Offline Data & Git
+- [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
+
+    Frequency domain methods
+
+    Time domain methods
+
+    Time-frequency domain methods
+
+    Nonlinear methods
+
+    ANN methods
+
+
+
+[Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
+
+[Computational Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation#Mathematical_description)
+
+[spike and wave Pathology](https://en.wikipedia.org/wiki/Spike_and_wave)
+
+
+
+- GABA Brainwave Channels
+
+    [Delta](https://en.wikipedia.org/wiki/Delta_wave) ⋯  0.1 - 3 Hz
+
+    [Theta](https://en.wikipedia.org/wiki/Theta_wave) ⋯  4 – 7 Hz
+
+    [Alpha](https://en.wikipedia.org/wiki/Alpha_wave) ⋯  8 – 12.5 Hz
+
+    [Mu](https://en.wikipedia.org/wiki/Mu_wave) ⋯  7.5 – 12.5 Hz
+
+    [Beta](https://en.wikipedia.org/wiki/Beta_wave) ⋯  12.5 – 30 Hz
+
+    [Gamma](https://en.wikipedia.org/wiki/Gamma_wave) ⋯  32 – 100 Hz
+
+8. 18/3/19: **AngularJS, Offline Data & Git**
 * AngularJS Tutorial
 * Advanced Git
 * Offline (dataset) 
 * Work session
 
-#### Week 8, 25/3/19: MuseJs, Brain Art Architecture
+9. 25/3/19: **MuseJs, Brain Art Architecture**
 * Intro starter to Brain Art Project
 * MuseJs Introduction 
 * Brain Art architecture
 * Brain artwork session (online)
 * Work session
 
-#### Week 9, 01/4/19: EEG Generative Art Project Presentation
+10. 01/4/19: **EEG Generative Art Project Presentation**
 
 <br>
 
@@ -257,12 +318,6 @@ Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalog
 
     [Gamma](https://en.wikipedia.org/wiki/Gamma_wave) ⋯  32 – 100 Hz
 
-[📹  V](http://www.fields.utoronto.ca/video-archive/static/2019/01/2757-19929/mergedvideo.ogv)ideo
-
-[📈  P](http://www.fields.utoronto.ca/private/ML_GradCourse/Jan10.pdf)DF Slides
-
-[http://www.fields.utoronto.ca/video-archive/static/2019/01/2757-19929/mergedvideo.ogv](http://www.fields.utoronto.ca/video-archive/static/2019/01/2757-19929/mergedvideo.ogv)
-
 
 ---
 
@@ -364,10 +419,3 @@ Gamma-aminobutyric acid ⋯ [GABA](https://en.wikipedia.org/wiki/Gamma-aminobuty
 
 
 
----
-
-
-### To-Do:
-
--[ ]  [Wk2 - Signal Processing Exercises](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
--[ ] Read about [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
