@@ -1,8 +1,10 @@
 # Introduction to Neurotechnology
 
 [NeuroTech](https://www.facebook.com/events/580805392331663)  |  [2018 ⋯ 2019](https://github.com/neurotechuoft/Workshops)
+
 University of Toronto
 
+<br>
 
 ## Format
 
@@ -82,7 +84,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 # Core Concepts
 
 
-### 🐍 ::snake::  <a name="01">Python</a>
+### 🐍  <a name="01">Python</a>
 ---
 ˉ  ϟ  ↑  ⑇  ⤻  
 
@@ -255,7 +257,7 @@ Oscillation Processes
 
 <br>
 
-### 𝗔 ⏃ <a name="08">AngularJS</a>
+### 𝗔  <a name="08">AngularJS</a>
 
 ---
 
@@ -270,37 +272,42 @@ Overview
 
 Architecture Framework
 
-1. Controller
+  * Controller
 
-    * Data Binding | **index.html**
-    ```
-    angular.min.js
-    ```
-    ```
-    ng-bootstrap
-    ```
-    ```
-    {{main.class}}
-    ```
-    ```
-    # 2-Way Binding
-    
-    $scope:
-    ```
+      Data Binding
 
-    * Controller   | **main.js**
-    ```
-    class.subclass
-    ```
+      / **index.html**
+      ```
+      angular.min.js
+      ```
+      ```
+      ng-bootstrap
+      ```
+      ```
+      {{main.class}}
+      ```
+      ```    
+      $scope:
+      # 2-Way Binding
+      ```
 
-    * JS Objects   | **main.js**
-    ```
-    .class
-    ```
+      Controller  <!-- | **main.js** -->
 
-  2. Components
+      / **main.js**
+      ```
+      class.subclass
+      ```
+
+      **JS Objects**  <!-- | **main.js** -->
+
+      / main.js
+      ```
+      .class
+      ```
+
+  * Components
   
-      * <!--Directives   | --> **index.html**
+      <!--Directives   | -->**index.html**
       ```
       # DIRECTIVES
       
@@ -326,9 +333,10 @@ Architecture Framework
       })
       ```
       
-      * Localization | **app.js**
+      Localization <!-- | **app.js** -->
       ```
-
+      # APP.JS
+      
       angular.module('app', ['components'])
 
       .controller('classObj', function($scope, $locale) {
@@ -344,17 +352,15 @@ Architecture Framework
 
 Angularity Unique
 
-* Deep Link : AJAX Navigation
-```
-# Validation
+  Deep Link Validation : AJAX Navigation
+  ```
+  ng-form
+  ```
 
-ng-form
-```
-
-* Async Backend Return
-```
-inject test in main() 
-```
+  Async Backend Return
+  ```
+  inject test in main() 
+  ```
 
 <br>
 
@@ -362,9 +368,11 @@ inject test in main()
 
 ---
 
-Generative Brain Art Project
-  * Getting Started
+Getting Started
+  * Project Overview
+  * EEG Data Visualised
   * Brain art as generative art
+  * AngularJS App
   
 MuseJs Framework
 
