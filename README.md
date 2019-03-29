@@ -1,10 +1,19 @@
 # Introduction to Neurotechnology ⋯ [2019](https://github.com/neurotechuoft/Workshops)
 
 University of Toronto
+[NeuroTech](https://www.facebook.com/events/580805392331663)
 
----
+<br>
 
-# Topics & Scope
+## Format
+
+Lecturing is boring! Instead, we want pairs of students to work towards the final brain-art project. Pairs will go through each week’s notebook, and fill in the code and run it. If it doesn’t work, no worries! We’ll have mentors floating around to help pairs debug or understand concepts better.
+
+This is going to be a cross of our workshops from 2017-2018 and our initial Prezi workshops, but with less emphasis on hardware and more emphasis on sofware techniques and the brain.
+
+<br>
+
+## Topics & Scope
 
 
 1. Python
@@ -21,15 +30,7 @@ University of Toronto
 
 <br>
 
-# Format
-
-Lecturing is boring! Instead, we want pairs of students to work towards the final brain-art project. Pairs will go through each week’s notebook, and fill in the code and run it. If it doesn’t work, no worries! We’ll have mentors floating around to help pairs debug or understand concepts better.
-
-This is going to be a cross of our workshops from 2017-2018 and our initial Prezi workshops, but with less emphasis on hardware and more emphasis on sofware techniques and the brain.
-
-<br>
-
-# [General Outline](https://www.facebook.com/events/580805392331663)
+## General Outline
 
 ### Week 1, 21/1/19: 
 Introduction to Python
@@ -72,7 +73,7 @@ Present Brain Art!
 
 <br>
 
-# Core Concepts
+## Core Concepts
 
 ### 02 ⋯ Graphing Data
 
@@ -347,7 +348,7 @@ Gamma-aminobutyric acid ⋯ [GABA](https://en.wikipedia.org/wiki/Gamma-aminobuty
 ---
 
 
-#### To-Do:
+### To-Do:
 
 -[ ]  [Wk2 - Signal Processing Exercises](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
 -[ ] Read about [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
