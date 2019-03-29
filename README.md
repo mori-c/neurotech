@@ -1,6 +1,6 @@
 # Introduction to Neurotechnology
 
-University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663) ⋯ [2019](https://github.com/neurotechuoft/Workshops)
+University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663) ⋯ [2018 - 2019](https://github.com/neurotechuoft/Workshops)
 
 <br>
 
@@ -31,39 +31,31 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 ## General Outline
 
 
-1.  **Introduction to Python** ⃗ <sup>21/1/19</sup>
+1.  **Introduction to Python**  ﹊  <sup>21/1/19</sup>
 
 
-2.  **Git & Data** ⃗ <sup>28/1/19</sup>
-  * Introduction to Git
-    * Git + GitHub
-
-  * Signal Processing & Graphing Data
-    * How to load data from CSVs or FIFs
-    * Graphing data with Matplotlib
-    * [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks)
+2.  **Git & Data**  ﹊  <sup>28/1/19</sup>
+* Introduction to Git
+* Signal Processing Data
+* Graphing Data
 
 
-3.  **Introduction to Neuroscience**  ⋯  <sup>04/2/19</sup>
+3.  **Introduction to Neuroscience**  ﹊  <sup>04/2/19</sup>
 * Brief history on neuroscience
-   * How Neurons & Axons Work: Brief Intro
 * Neuroanatomy & [Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
 * Rall's Cable Theory
 * Membrane potential
-    * Nernst
-    * GHK
-    * HH ⋯ Hodgkin-Huxley Equations
 
 
-4.  **Noise Filtering** ⃗ <sup>11/2/19</sup>
-* [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
-* FFT ⋯ Fast Fourier Transform Introduction
+4.  **Noise Filtering**  ﹊  <sup>11/2/19</sup>
+ * [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
+ * [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) ⋯ Fast Fourier Transform Introduction
 
 
 5.  **Reading Week** ⃗ <sup>18/2/19</sup>
 
 
-6.  **Digital Signal Processing**  ⃗  [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf) ⋯ <sup>4/3/19</sup>
+6.  **Digital Signal Processing** ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)  ﹊  <sup>4/3/19</sup>
 * Signals 
    * Sampling Audio, Biological, Images, and Video Signals
    * Fourier Analysis: Frequency Domain
@@ -71,91 +63,92 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
    * Aliasing: Overlapped Time & Frequency Signals Reconstructed
    * Nyquist's Theorem
    * Filter Designs
-      * Filter Types
-      * [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
-      * Filter Order
-      * Filter Characteristics
 * Signal Processing
-   * Analyzing & Modifying Signals
-   * Audio, Speech, Video, Image, Biological, Biomedical Imaging Application Variants
-   * Brain-Computer Interfaces
 * Signal Classifications Types
-   * $$x(t)$$ Continuous vs $$x[n]$$ Discrete
-   * Digital vs Analog
-   * 1D ⋯ x(t), v[n]
-   * 2D ⋯ f(x, t), images
-   * Unit Impluse (Delta) Function
-   * Periodic Signals
-   * Frequency
-   * Signal Manipulation
 * Systems
-   * Impulse responses
-   * System Properties
-   * LTI ⋯ Linear Time Invariant
-      * Convolution
 
 
-7. **EEG Oscillatory Processes** ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf)  ⃗  <sup>11/3/19</sup> 
-* What exactly is EEG
-   * [EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
-   * GABA Brainwave Channels
+7.  **EEG Oscillatory Processes** ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf) ﹊  <sup>11/3/19</sup> 
+* What exactly is [EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
+* GABA Brainwave Channels
 * EEG Physics
-   * [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
 * Oscillatory processes vs ERPs
 * Power spectral analysis for EEG power bands
-   * [Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
   
-8.  **AngularJS, Offline Data & Git**  ⃗  <sup>18/3/19</sup>
+  
+8.  **AngularJS, Offline Data & Git** ﹊ <sup>18/3/19</sup>
 * AngularJS Tutorial
 * Advanced Git
 * Offline (dataset) 
 * Work session
 
-9.  **MuseJs, Brain Art Architecture**  ⃗  <sup>25/3/19</sup> 
+
+9.  **MuseJs, Brain Art Architecture** ﹊ <sup>25/3/19</sup> 
 * Intro starter to Brain Art Project
 * MuseJs Introduction 
 * Brain Art architecture
 * Brain artwork session (online)
 * Work session
 
+
 10.  **EEG Generative Art Project Presentation** ﹊ <sup>01/4/19</sup>
 
 <br>
 
-## Core Concepts
+# Core Concepts
+
 
 ### 02 ⋯ Graphing Data
 
-- Graphing Data
+Git
+GitHub
+Signal Processing Data 
+  [CRF](https://en.wikipedia.org/wiki/Conditional_random_field) ⋯ Conditional Random Fields 
+  [ERM](https://en.wikipedia.org/wiki/Empirical_risk_minimization) ⋯ Empirical risk minimization
+  Bias-Variance [Dilemma](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
+  [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) Notebook
 
-    CSVs / FIFs
+Graphing Data
+  * CSVs
+  * FIFs
+  * Bayes Net Graphical Models
+  * Graphing data with Matplotlib
 
-Conditional Random Fields ⋯ [CRF](https://en.wikipedia.org/wiki/Conditional_random_field)
-
-Empirical risk minimization ⋯ [ERM](https://en.wikipedia.org/wiki/Empirical_risk_minimization)
-
-Bias-Variance [Dilemma](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
-
-Bayes Net Graphical Models
 
 ---
 
-### 03 ⋯ Fast Fourier Transform ⋯ [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+### 04 ⋯ Neuroscience Introduction
+
+Neuroscience
+  Neurons
+  Axons
+
+Neuroanatomy
+[Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
+
+Rall’s Cable Theory
+
+Membrane potential
+ * Nernst
+ * GHK
+ * HH ⋯ Hodgkin-Huxley Equations
+
+<br>
+
+### 03 ⋯ [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) ⌇  Fast Fourier Transform
 
 - [Time Series](https://en.wikipedia.org/wiki/Time_series)
-
-    Time-series segmentation ⋯ [Markov](https://en.wikipedia.org/wiki/Time-series_segmentation)
-
-[Models](https://en.wikipedia.org/wiki/Time_series#Models)
+    [Markov](https://en.wikipedia.org/wiki/Time-series_segmentation) Time-Series Segmentation
+    [Models](https://en.wikipedia.org/wiki/Time_series#Models)
 
 
-- Fast Fourier Transform ⋯ [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform)
+- [FFT](https://en.wikipedia.org/wiki/Fast_Fourier_transform) ⋯ Fast Fourier Transform
 
     Cooley-Tukey [ALGM](https://en.wikipedia.org/wiki/Cooley%E2%80%93Tukey_FFT_algorithm)
 
-    Generalized distributive law ⋯ [GDL](https://en.wikipedia.org/wiki/Generalized_distributive_law)
+    [GDL](https://en.wikipedia.org/wiki/Generalized_distributive_law) ⋯ Generalized distributive law
 
-- Discrete Fourier Transform ⋯ [DFT](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
+-  [DFT](https://en.wikipedia.org/wiki/Discrete_Fourier_transform) ⋯ Discrete Fourier Transform
 
     DFT [matrix](https://en.wikipedia.org/wiki/DFT_matrix)
 
@@ -163,11 +156,11 @@ Bayes Net Graphical Models
 
     [Gaussian noise](https://en.wikipedia.org/wiki/Gaussian_noise)
 
-    Signal-to-noise ratio ⋯ [SNR](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)
+     ⋯ Signal-to-noise ratio ⋯ [SNR](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)
 
     [Matched filter](https://en.wikipedia.org/wiki/Matched_filter)
 
-    [ADC](https://en.wikipedia.org/wiki/Analog-to-digital_converter) [Digital filter](https://en.wikipedia.org/wiki/Digital_filter)
+    [ADC](https://en.wikipedia.org/wiki/Analog-to-digital_converter) ⋯ [Digital filter](https://en.wikipedia.org/wiki/Digital_filter)
 
     [Nonlinear filter](https://en.wikipedia.org/wiki/Nonlinear_filter)
 
@@ -193,65 +186,69 @@ Bayes Net Graphical Models
 
     [Signal Estimation](https://en.wikipedia.org/wiki/Estimation_theory)
 
-
 Frequency Analysis
 
 [Multidimensional transform](https://en.wikipedia.org/wiki/Multidimensional_transform)
 
-
----
-
-### 04 ⋯ Neuroscience Introduction
-
-Neurons & Axons
-
-Neuroanatomy
-
-Rall’s Cable Theory
-
-- Membrane Potential
-    - Nernst
-    - GHK
-    - HH equations
-
-Hodgkin-Huxley ⋯ HH
-
-
----
+<br>
 
 ### 05 ⋯ Digital Signal Processing
+---
+Signals 
+   * Sampling Audio, Biological, Images, and Video Signals
+   * Fourier Analysis: Frequency Domain
+   * DTFT ⋯ Discrete Time Fourier Transform & Properties
+   * Aliasing: Overlapped Time & Frequency Signals Reconstructed
+   * Nyquist's Theorem
+   * Filter Designs
+      * Filter Types
+      * [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
+      * Filter Order
+      * Filter Characteristics
 
-Convolution
+Signal Processing
+   * Analyzing & Modifying Signals
+   * Audio, Speech, Video, Image, Biological, Biomedical Imaging Application Variants
+   * Brain-Computer Interfaces
 
-Impulse Responses
+Signal Classifications Types
+   * $$x(t)$$ Continuous vs $$x[n]$$ Discrete
+   * Digital vs Analog
+   * 1D ⋯ x(t), v[n]
+   * 2D ⋯ f(x, t), images
+   * Unit Impluse (Delta) Function
+   * Periodic Signals
+   * Frequency
+   * Signal Manipulation
 
-- Signal Types
-    - Continuous Signal
-    - Discrete Signal
-
-    Continuous Processing
-
-    Discrete Processing
-
-Nyquist's Theorem
-
-Aliasing
-
-
-Filter Order
-
-FIR v IIR
-
-Filter Types
+Systems
+   Impulse responses
+   System Properties
+   LTI ⋯ Linear Time Invariant
+      * Convolution
 
 
 ---
 
 ### 06 ⋯ EEG Oscillatory Processes
 
-Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalography)
+[EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
 
-- [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
+    GABA Brainwave Channels
+
+      [Delta](https://en.wikipedia.org/wiki/Delta_wave) ⋯  0.1 - 3 Hz
+
+      [Theta](https://en.wikipedia.org/wiki/Theta_wave) ⋯  4 – 7 Hz
+
+      [Alpha](https://en.wikipedia.org/wiki/Alpha_wave) ⋯  8 – 12.5 Hz
+
+      [Mu](https://en.wikipedia.org/wiki/Mu_wave) ⋯  7.5 – 12.5 Hz
+
+      [Beta](https://en.wikipedia.org/wiki/Beta_wave) ⋯  12.5 – 30 Hz
+
+      [Gamma](https://en.wikipedia.org/wiki/Gamma_wave) ⋯  32 – 100 Hz
+
+[EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
 
     Frequency domain methods
 
@@ -263,29 +260,13 @@ Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalog
 
     ANN methods
 
-
-
 [Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
 
 [Computational Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation#Mathematical_description)
 
-[spike and wave Pathology](https://en.wikipedia.org/wiki/Spike_and_wave)
+[Spike and Wave Pathology](https://en.wikipedia.org/wiki/Spike_and_wave)
 
 
-
-- GABA Brainwave Channels
-
-    [Delta](https://en.wikipedia.org/wiki/Delta_wave) ⋯  0.1 - 3 Hz
-
-    [Theta](https://en.wikipedia.org/wiki/Theta_wave) ⋯  4 – 7 Hz
-
-    [Alpha](https://en.wikipedia.org/wiki/Alpha_wave) ⋯  8 – 12.5 Hz
-
-    [Mu](https://en.wikipedia.org/wiki/Mu_wave) ⋯  7.5 – 12.5 Hz
-
-    [Beta](https://en.wikipedia.org/wiki/Beta_wave) ⋯  12.5 – 30 Hz
-
-    [Gamma](https://en.wikipedia.org/wiki/Gamma_wave) ⋯  32 – 100 Hz
 
 
 ---
