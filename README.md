@@ -1,66 +1,11 @@
-# NeuroTech Course
-
-Intro to Neurotech: [2018-2019](https://github.com/neurotechuoft/Workshops)
-
----
-
-To-Do:
--[ ]  [Wk2 - Signal Processing Exercises](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
--[ ] Read about [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
-
----
-
-[General Outline](https://www.facebook.com/events/580805392331663)
-
-Week 1, 21/1/19: 
-Introduction to Python
-Absolute basics of programming
-
-Week 2, 28/1/19: 
-I. Introduction to Git — 
-II. Loading and graphing data
-Git + GitHub, how to load data from CSVs (or FIFs), graphing data with Matplotlib
-
-Week 3, 04/2/19: 
-Introduction to Neuroscience
-History, how neurons work (brief intro), neuroanatomy review, Rall's Cable Theory, membrane potential (Nernst, GHK, HH equations)
-
-[Week 4, 11/2/19](https://mailchi.mp/f0e9cca4a344/week-4-readings): 
-Noise Filtering
-Filtering noise, and an introduction to the Fast Fourier Transform
-
-18/2/19 
-Reading Week — No workshop
-
-Week 5, 25/2/19: 
-Digital Signal Processing
-Convolution, impulse responses, signal types, continuous vs discrete, aliasing, Nyquist's Theorem, [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959), different types of filters, filter order
-
-Week 6, 04/3/19: 
-Uncovering Oscillatory Processes in EEG
-What exactly is EEG, physics of EEG, oscillatory processes vs ERPs, power spectral analysis for EEG power bands
-
-Week 7, 11/3/19: 
-Brain Art Project! + Advanced Git + offline (dataset) work session
-Intro to brain art project; how to get started; group Git; start working
-
-Week 8, 18/3/19: 
-Intro to MuseJs + Brain Art architecture, brain artwork session (online)
-A bit about how Brain Art was made, MuseJs, work session
-
-Week 9, 25/3/19: 
-Present Brain Art!
-
-
----
-
-# Introduction to Neurotechnology ⋯ 2019
+# Introduction to Neurotechnology ⋯ [2019](https://github.com/neurotechuoft/Workshops)
 
 University of Toronto
 
-# Topics
-
 ---
+
+# Topics & Scope
+
 
 1. Python
 2. Graphing Data
@@ -74,17 +19,60 @@ University of Toronto
 10. MusicJ Framework
 11. Final Presentation
 
+<br>
 
 # Format
-
----
 
 Lecturing is boring! Instead, we want pairs of students to work towards the final brain-art project. Pairs will go through each week’s notebook, and fill in the code and run it. If it doesn’t work, no worries! We’ll have mentors floating around to help pairs debug or understand concepts better.
 
 This is going to be a cross of our workshops from 2017-2018 and our initial Prezi workshops, but with less emphasis on hardware and more emphasis on sofware techniques and the brain.
 
-# Core Concepts
+<br>
 
+# [General Outline](https://www.facebook.com/events/580805392331663)
+
+### Week 1, 21/1/19: 
+Introduction to Python
+* Absolute basics of programming
+
+### Week 2, 28/1/19: 
+A. Introduction to Git — 
+B. Loading and graphing data
+* Git + GitHub, how to load data from CSVs (or FIFs), graphing data with Matplotlib
+
+### Week 3, 04/2/19: 
+Introduction to Neuroscience
+* History, how neurons work (brief intro), neuroanatomy review, Rall's Cable Theory, membrane potential (Nernst, GHK, HH equations)
+
+### [Week 4, 11/2/19](https://mailchi.mp/f0e9cca4a344/week-4-readings): 
+Noise Filtering
+* Filtering noise, and an introduction to the Fast Fourier Transform
+
+### 18/2/19 
+Reading Week — No workshop
+
+### Week 5, 4/3/19: 
+Digital Signal Processing
+* Convolution, impulse responses, signal types, continuous vs discrete, aliasing, Nyquist's Theorem, [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959), different types of filters, filter order
+
+### Week 6, 11/3/19: 
+Uncovering Oscillatory Processes in EEG
+* What exactly is EEG, physics of EEG, oscillatory processes vs ERPs, power spectral analysis for EEG power bands
+
+### Week 7, 18/3/19: 
+Brain Art Project! + Advanced Git + offline (dataset) work session
+* Intro to brain art project; how to get started; group Git; start working
+
+### Week 8, 25/3/19: 
+Intro to MuseJs + Brain Art architecture, brain artwork session (online)
+* A bit about how Brain Art was made, MuseJs, work session
+
+### Week 9, 01/4/19: 
+Present Brain Art!
+
+<br>
+
+# Core Concepts
 
 ### 02 ⋯ Graphing Data
 
@@ -354,3 +342,12 @@ Gamma-aminobutyric acid ⋯ [GABA](https://en.wikipedia.org/wiki/Gamma-aminobuty
 
 ### 10 ⋯ MusicJ Framework
 
+
+
+---
+
+
+#### To-Do:
+
+-[ ]  [Wk2 - Signal Processing Exercises](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
+-[ ] Read about [FIR vs IIR](https://community.plm.automation.siemens.com/t5/Testing-Knowledge-Base/Introduction-to-Filters-FIR-versus-IIR/ta-p/520959)
