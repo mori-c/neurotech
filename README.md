@@ -1,6 +1,6 @@
 # Introduction to Neurotechnology
 
-University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663) ⋯ [2018 - 2019](https://github.com/neurotechuoft/Workshops)
+University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663)  ﹊  [2018 ⋯ 2019](https://github.com/neurotechuoft/Workshops)
 
 <br>
 
@@ -30,8 +30,8 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 ## General Outline
 
-
-1.  **Introduction to Python**  ﹊  <sup>21/1/19</sup>
+<a name="nn">01</a>:  ⏱ permitting <sup>[01](#nn)</sup>
+1.  [Introduction to Python](#01)  ﹊  <sup>21/1/19</sup>
 
 
 2.  **Git & Data**  ﹊  <sup>28/1/19</sup>
@@ -97,6 +97,8 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 # Core Concepts
 
+<a name="nn">01</a>:  ⏱ permitting <sup>[01](#nn)</sup>
+<a name="01">01</a> ⋯ Python
 
 ### 02 ⋯ Graphing Data
 
