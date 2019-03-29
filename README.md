@@ -6,7 +6,7 @@ University of Toronto  |  [NeuroTech](https://www.facebook.com/events/5808053923
 
 ## Format
 
-Lecturing is boring! Instead, we want pairs of students to work towards the final brain-art project. Pairs will go through each week’s notebook, and fill in the code and run it. If it doesn’t work, no worries! We’ll have mentors floating around to help pairs debug or understand concepts better.
+Pairs of students to work towards the final brain-art project. Pairs will go through each week’s notebook, and fill in the code and run it. If it doesn’t work, no worries! We’ll have mentors floating around to help pairs debug or understand concepts better.
 
 This is going to be a cross of our workshops from 2017-2018 and our initial Prezi workshops, but with less emphasis on hardware and more emphasis on sofware techniques and the brain.
 
@@ -31,7 +31,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 ## General Outline
 
 
-1.  **Introduction to Python** ⃗ 21/1/19
+1.  **Introduction to Python** ⃗ <sup>21/1/19</sup>
 
 
 2.  **Git & Data** ⃗ 28/1/19
@@ -63,7 +63,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 5.  **Reading Week** ⃗ 18/2/19
 
 
-6.  **Digital Signal Processing**  ⃗  4/3/19 ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)
+6.  **Digital Signal Processing**  ⃗  <sup>4/3/19</sup> ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)
 * Signals 
    * Sampling Audio, Biological, Images, and Video Signals
    * Fourier Analysis: Frequency Domain
@@ -95,7 +95,7 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
       * Convolution
 
 
-7. **EEG Oscillatory Processes**  ⃗  11/3/19 ﹊ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf)
+7. **EEG Oscillatory Processes**  ⃗  <sup>11/3/19</sup> ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf)
 * What exactly is EEG
    * [EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
    * GABA Brainwave Channels
