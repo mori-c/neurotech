@@ -34,19 +34,17 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 1.  **Introduction to Python** ⃗ 21/1/19
 
 
-2.  **Git & Data** ✗ 28/1/19
+2.  **Git & Data** ⃗ 28/1/19
+  * Introduction to Git
+    * Git + GitHub
 
-  A. Introduction to Git
-* Git + GitHub
-
-  B. Signal Processing & Graphing Data
-* How to load data from CSVs or FIFs
-* Graphing data with Matplotlib
-* [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) / [Answers](https://github.com/neurotechuoft/Workshops/blob/master/workshop_2018_2019/notebooks/answers/wk2b_intro_to_signal_processing.ipynb)
+  * Signal Processing & Graphing Data
+    * How to load data from CSVs or FIFs
+    * Graphing data with Matplotlib
+    * [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks)
 
 
-3.  **Introduction to Neuroscience** ⋯ 04/2/19
-⋯
+3.  **Introduction to Neuroscience**  ⋯  04/2/19
 * Brief history on neuroscience
    * How Neurons & Axons Work: Brief Intro
 * Neuroanatomy & [Neuromodulation](https://en.wikipedia.org/wiki/Neuromodulation)
@@ -54,24 +52,22 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 * Membrane potential
     * Nernst
     * GHK
-    * Hodgkin-Huxley (HH) equations
+    * HH ⋯ Hodgkin-Huxley Equations
 
 
-4.  **Noise Filtering** . 11/2/19
-⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯⋯
+4.  **Noise Filtering** ⃗ 11/2/19
 * [Noise Filtering](https://mailchi.mp/f0e9cca4a344/week-4-readings)
-* Introduction to the Fast Fourier Transform
+* FFT ⋯ Fast Fourier Transform Introduction
 
 
-5.  **Reading Week** 18/2/19
+5.  **Reading Week** ⃗ 18/2/19
 
 
-6.  **Digital Signal Processing**<sup>[⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)</sup>  4/3/19
-⋯
+6.  **Digital Signal Processing**  ⃗  4/3/19 ⋯ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop5.pdf)
 * Signals 
    * Sampling Audio, Biological, Images, and Video Signals
    * Fourier Analysis: Frequency Domain
-   * DTFT: Discrete Time Fourier Transform & Properties
+   * DTFT ⋯ Discrete Time Fourier Transform & Properties
    * Aliasing: Overlapped Time & Frequency Signals Reconstructed
    * Nyquist's Theorem
    * Filter Designs
@@ -86,8 +82,8 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 * Signal Classifications Types
    * $$x(t)$$ Continuous vs $$x[n]$$ Discrete
    * Digital vs Analog
-   * 1D: x(t), v[n]
-   * 2D: f(x, t), images
+   * 1D ⋯ x(t), v[n]
+   * 2D ⋯ f(x, t), images
    * Unit Impluse (Delta) Function
    * Periodic Signals
    * Frequency
@@ -95,15 +91,15 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 * Systems
    * Impulse responses
    * System Properties
-   * LTI: Linear Time Invariant
+   * LTI ⋯ Linear Time Invariant
       * Convolution
 
 
-7. **EEG Oscillatory Processes** ﹊ 11/3/19
+7. **EEG Oscillatory Processes**  ⃗  11/3/19 ﹊ [⿻](https://github.com/mori-c/uoft-neurotech/blob/master/2019/workshop_2018_2019/notes/Workshop6.pdf)
 * What exactly is EEG
-   * Electroencephalography ⋯ [EEG](https://en.wikipedia.org/wiki/Electroencephalography)
+   * [EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
    * GABA Brainwave Channels
-* Physics of EEG
+* EEG Physics
    * [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
 * Oscillatory processes vs ERPs
 * Power spectral analysis for EEG power bands
@@ -133,22 +129,20 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 
 
 
-8.  **AngularJS, Offline Data & Git** 
-18/3/19: 
+8.  **AngularJS, Offline Data & Git**  ⃗  18/3/19 
 * AngularJS Tutorial
 * Advanced Git
 * Offline (dataset) 
 * Work session
 
-9.  **MuseJs, Brain Art Architecture**
-﹊ 25/3/19: 
+9.  **MuseJs, Brain Art Architecture**  ⃗  25/3/19 
 * Intro starter to Brain Art Project
 * MuseJs Introduction 
 * Brain Art architecture
 * Brain artwork session (online)
 * Work session
 
-10.  **EEG Generative Art Project Presentation**  01/4/19
+10.  **EEG Generative Art Project Presentation**  ⃗  01/4/19
 
 <br>
 
