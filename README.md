@@ -1,7 +1,6 @@
 # Introduction to Neurotechnology
 
-[NeuroTech](https://www.facebook.com/events/580805392331663)  |  University of Toronto
-  |  [2018 ⋯ 2019](https://github.com/neurotechuoft/Workshops)
+University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663)  |  [2019](https://github.com/neurotechuoft/Workshops)
 
 <br>
 
@@ -224,21 +223,21 @@ Systems
 
 <br>
 
-### ⍼ ∿  ⋯ <a name="07">EEG Oscillation Processes</a>
+### ∿  ⋯ <a name="07">EEG Oscillation Processes</a> <!-- ⍼ -->
 
 ---
 
-[Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
+1. [Neural Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation)
 
 * [Computational Oscillation](https://en.wikipedia.org/wiki/Neural_oscillation#Mathematical_description)
     
-Oscillation Processes
+2. Oscillation Processes
 
 * [Spike and Wave Pathology](https://en.wikipedia.org/wiki/Spike_and_wave)
 
-[EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
+3. [EEG](https://en.wikipedia.org/wiki/Electroencephalography) ⋯ Electroencephalography
 
-GABA Brainwave Channels
+4. GABA Brainwave Channels
 * [Delta](https://en.wikipedia.org/wiki/Delta_wave) ⋯  0.1 - 3 Hz
 * [Theta](https://en.wikipedia.org/wiki/Theta_wave) ⋯  4 – 7 Hz
 * [Alpha](https://en.wikipedia.org/wiki/Alpha_wave) ⋯  8 – 12.5 Hz
@@ -246,7 +245,7 @@ GABA Brainwave Channels
 * [Beta](https://en.wikipedia.org/wiki/Beta_wave) ⋯  12.5 – 30 Hz
 * [Gamma](https://en.wikipedia.org/wiki/Gamma_wave) ⋯  32 – 100 Hz
 
-[EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
+5. [EEG Analysis Methods](https://en.wikipedia.org/wiki/EEG_analysis)
 * Frequency domain methods
 * Time domain methods
 * Time-frequency domain methods
@@ -270,105 +269,105 @@ Overview
 
 Architecture Framework
 
-⋰  Controller
+* Controller
 
-⮑  Data Binding | **index.html**
-```
-angular.min.js
-```
-```
-ng-bootstrap
-```
-```
-{{main.class}}
-```
-```    
-$scope:
-# 2-Way Binding
-```
+    ⋰  Data Binding | **index.html**
+    ```
+    angular.min.js
+    ```
+    ```
+    ng-bootstrap
+    ```
+    ```
+    {{main.class}}
+    ```
+    ```    
+    $scope:
+    # 2-Way Binding
+    ```
 
-⮑  Controller | **main.js**
-```
-class.subclass
-```
+    ⋰  Controller | **main.js**
+    ```
+    class.subclass
+    ```
 
-⮑  JS Objects | **main.js**
-```
-.class
-```
+    ⋰  JS Objects | **main.js**
+    ```
+    .class
+    ```
 
-⋰  Components
+* Components
 
-⮑  Directives | **index.html**
-```      
-<html ng-app="app">
-<div ng-controller="classObj string classObj">
-<ng-pluralize count="count" when="classObj"></ng-bootstrap>
-```
+    ⋰  Directives | **index.html**
+    ```      
+    <html ng-app="app">
+    <div ng-controller="classObj string classObj">
+    <ng-pluralize count="count" when="classObj"></ng-bootstrap>
+    ```
 
-⮑  Components | **components.js**
-```
-.class('class', function() {
-  return {
-    restrict:'',
-    translude: boolean,
-    scope: {},
-    controller: function($scope, $element) {
-      var obj = $scope.obj = [];
-      $scope.select = function(obj) {}
-    },
-    template:
-      '<add html here>'
-    }
-})
-```
+    ⋰  Components | **components.js**
+    ```
+    .class('class', function() {
+      return {
+        restrict:'',
+        translude: boolean,
+        scope: {},
+        controller: function($scope, $element) {
+          var obj = $scope.obj = [];
+          $scope.select = function(obj) {}
+        },
+        template:
+          '<add html here>'
+        }
+    })
+    ```
 
-⮑  Localization | **app.js**
-```
-angular.module('app', ['components'])
+    ⋰  Localization | **app.js**
+    ```
+    angular.module('app', ['components'])
 
-.controller('classObj', function($scope, $locale) {
-  $scope.class = [];
-  if ($locale.id == 'html-syntax') {
-    $scope.classObj = {};
-  }
-  else {
-    $scope.classObj = {};
-  }
-});
-```
+    .controller('classObj', function($scope, $locale) {
+      $scope.class = [];
+      if ($locale.id == 'html-syntax') {
+        $scope.classObj = {};
+      }
+      else {
+        $scope.classObj = {};
+      }
+    });
+    ```
 
 Angularity Unique
 
-⋰  Deep Link Validation : AJAX Navigation
+* Deep Link Validation : AJAX Navigation
 ```
 ng-form
 ```
 
-⋰  Async Backend Return
+* Async Backend Return
 ```
 inject test in main() 
 ```
 
 <br>
 
-### <a name="09">Generative Brain Art Starter, MuseJs Framework</a>
+###  💆🏻‍♀️  ⋯  <a name="09">Generative Brain Art Starter, MuseJs Framework</a>
 
 ---
 
-Getting Started
+A. Getting Started
   * Project Overview
   * EEG Data Visualised
   * Brain art as generative art
   * AngularJS App
   
-MuseJs Framework
+B. MuseJs Framework
 
-Brain Art Architecture
+C. Brain Art Architecture
 
 <br>
 
-### <a name="10">EEG Generative Art Project Presentation</a>
-
-
+### ⌅ ϟ  ⋯  <a name="10">EEG Generative Art Project Presentation</a>
+---
+ˉ  ϟ  ↑  ⑇  ⤻  
 
