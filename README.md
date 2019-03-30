@@ -91,12 +91,15 @@ This is going to be a cross of our workshops from 2017-2018 and our initial Prez
 ### ፨  ⋯  <a name="02">Graphing Data</a>
 ---
 A. Git
+
 B. GitHub
+
 C. Signal Processing Data 
 * [CRF](https://en.wikipedia.org/wiki/Conditional_random_field) ⋯ Conditional Random Fields 
 * [ERM](https://en.wikipedia.org/wiki/Empirical_risk_minimization) ⋯ Empirical risk minimization
 * Bias-Variance [Dilemma](https://en.wikipedia.org/wiki/Bias%E2%80%93variance_tradeoff)
 * [Signal Processing](https://github.com/neurotechuoft/Workshops/tree/master/workshop_2018_2019/notebooks) Notebook
+
 D. Graphing Data
 * CSVs
 * FIFs
