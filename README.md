@@ -1,7 +1,5 @@
 # Introduction to Neurotechnology
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/mori-c/neurotech.svg)](https://greenkeeper.io/)
-
 University of Toronto  |  [NeuroTech](https://www.facebook.com/events/580805392331663)  |  [2019](https://github.com/neurotechuoft/Workshops)
 
 <br>
