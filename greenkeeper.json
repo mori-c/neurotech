@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "angular/sandbox/angular-tour-of-heroes/package.json",
+        "angular/sandbox/cli-quickstart/package.json",
+        "angular/sandbox/my-app/package.json",
+        "angular/sandbox/toh-pt6/package.json",
+        "final/ConvNetApp/package.json"
+      ]
+    }
+  }
+}
